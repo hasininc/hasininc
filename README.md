@@ -89,7 +89,7 @@ Full-stack hotel management application with booking and administrative features
 ## 🌐 Connect with Me
 
 - GitHub: https://github.com/hasininc
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: *(Add your LinkedIn URL here)https://www.linkedin.com/in/hasini-nallan-chakravarthula-872286335/*
 
 ---
 
