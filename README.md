@@ -1,11 +1,96 @@
-- 👋 Hi, I’m @hasininc
-- 👀 I’m interested in ML&AI
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on my project Strata 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Github is fun
+# Hi there, I'm Hasini 👋
 
-<!---
-hasininc/hasininc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Pre-final Year B.Tech Student @ IIT Patna
+**Artificial Intelligence & Data Science**
+
+I'm passionate about building AI-powered applications, full-stack web platforms, and solving challenging algorithmic problems. I enjoy transforming ideas into impactful products by combining machine learning, software engineering, and intuitive user experiences.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science at IIT Patna
+- 💻 Interested in AI, Machine Learning, Full-Stack Development, and Backend Engineering
+- 🌱 Currently exploring System Design, LLMs, Cloud, and Scalable Applications
+- ⚡ Regularly solving Data Structures & Algorithms problems
+- 🎯 Always excited to learn new technologies and build meaningful projects
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- C++
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React
+- Angular
+- Node.js
+- Express.js
+- FastAPI
+- Tailwind CSS
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### AI & Data Science
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Docker
+- Postman
+- Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Mirae
+AI-powered opportunity platform with authentication, profile management, and modern frontend.
+
+### 🌱 EcoTwin
+AI-driven carbon footprint tracking platform with personalized sustainability insights.
+
+### 🔍 Strata
+AI-powered GitHub repository analysis platform using LLMs.
+
+### 🏨 Balaji Grand Hotel Management System
+Full-stack hotel management application with booking and administrative features.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasininc&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasininc&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasininc&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/hasininc
+- LinkedIn: *(Add your LinkedIn URL here)*
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
