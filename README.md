@@ -11,7 +11,6 @@ I'm passionate about building AI-powered applications, full-stack web platforms,
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science at IIT Patna
 - 💻 Interested in AI, Machine Learning, Full-Stack Development, and Backend Engineering
-- 🌱 Currently exploring System Design, LLMs, Cloud, and Scalable Applications
 - ⚡ Regularly solving Data Structures & Algorithms problems
 - 🎯 Always excited to learn new technologies and build meaningful projects
 
