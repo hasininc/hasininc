@@ -16,7 +16,7 @@ I'm passionate about building AI-powered applications, full-stack web platforms,
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 - C++
